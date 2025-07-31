@@ -34,7 +34,7 @@ while (num < 500) {
         break;
     }
     sum = sum + num;
+    num++
     console.log ('Final Sum:', sum);
 }
-
 
